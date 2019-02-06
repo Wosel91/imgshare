@@ -1,5 +1,12 @@
 <application>
   <component name="libraryTable">
+    <library name="JAX-RS" type="JAX-RS">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Desktop/apis/jersey 3/jaxws-ri-2.3.0.zip!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="JAX-WS-Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" type="JAX-WS">
       <properties version="Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" />
       <CLASSES>
@@ -24,7 +31,6 @@
         <root url="jar://$USER_HOME$/Documents/pruebasoap1234/lib/stax2-api.jar!/" />
         <root url="jar://$USER_HOME$/Documents/pruebasoap1234/lib/saaj-impl.jar!/" />
         <root url="jar://$USER_HOME$/Documents/pruebasoap1234/lib/woodstox-core-asl.jar!/" />
-        <root url="jar://$USER_HOME$/Downloads/jaxb-core-2.2.7.jar.zip!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
