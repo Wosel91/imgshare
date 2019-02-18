@@ -30,6 +30,13 @@
         <root url="jar://$USER_HOME$/Desktop/apis/jersey/org.osgi.core-4.2.0.jar!/OSGI-OPT/src" />
       </SOURCES>
     </library>
+    <library name="gson-2.3.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Desktop/apis/gson/gson-2.3.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="JAX-RS" type="JAX-RS">
       <CLASSES>
         <root url="jar://$USER_HOME$/Desktop/apis/jersey 3/jaxws-ri-2.3.0.zip!/" />
