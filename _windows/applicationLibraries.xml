@@ -30,6 +30,42 @@
         <root url="jar://$USER_HOME$/Desktop/apis/jersey/org.osgi.core-4.2.0.jar!/OSGI-OPT/src" />
       </SOURCES>
     </library>
+    <library name="commons-logging-1.1.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Desktop/apis/google/APIS NECESARIAS/google-oauth-client-assembly-1.23.0-1.23.0/commons-logging-1.1.1.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/google/APIS NECESARIAS/google-oauth-client-assembly-1.23.0-1.23.0/google-http-client-1.23.0.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/google/APIS NECESARIAS/google-oauth-client-assembly-1.23.0-1.23.0/google-http-client-android-1.23.0.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/google/APIS NECESARIAS/google-oauth-client-assembly-1.23.0-1.23.0/google-http-client-appengine-1.23.0.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/google/APIS NECESARIAS/google-oauth-client-assembly-1.23.0-1.23.0/google-http-client-gson-1.23.0.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/google/APIS NECESARIAS/google-oauth-client-assembly-1.23.0-1.23.0/google-http-client-jackson-1.23.0.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/google/APIS NECESARIAS/google-oauth-client-assembly-1.23.0-1.23.0/google-http-client-jackson2-1.23.0.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/google/APIS NECESARIAS/google-oauth-client-assembly-1.23.0-1.23.0/google-http-client-jdo-1.23.0.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/google/APIS NECESARIAS/google-oauth-client-assembly-1.23.0-1.23.0/google-http-client-protobuf-1.23.0.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/google/APIS NECESARIAS/google-oauth-client-assembly-1.23.0-1.23.0/google-http-client-xml-1.23.0.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/google/APIS NECESARIAS/google-oauth-client-assembly-1.23.0-1.23.0/google-oauth-client-1.23.0.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/google/APIS NECESARIAS/google-oauth-client-assembly-1.23.0-1.23.0/google-oauth-client-appengine-1.23.0.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/google/APIS NECESARIAS/google-oauth-client-assembly-1.23.0-1.23.0/google-oauth-client-java6-1.23.0.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/google/APIS NECESARIAS/google-oauth-client-assembly-1.23.0-1.23.0/google-oauth-client-jetty-1.23.0.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/google/APIS NECESARIAS/google-oauth-client-assembly-1.23.0-1.23.0/google-oauth-client-servlet-1.23.0.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/google/APIS NECESARIAS/google-oauth-client-assembly-1.23.0-1.23.0/googleoauth.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/google/APIS NECESARIAS/google-oauth-client-assembly-1.23.0-1.23.0/gson-2.1.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/google/APIS NECESARIAS/google-oauth-client-assembly-1.23.0-1.23.0/httpclient-4.0.1.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/google/APIS NECESARIAS/google-oauth-client-assembly-1.23.0-1.23.0/httpcore-4.0.1.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/google/APIS NECESARIAS/google-oauth-client-assembly-1.23.0-1.23.0/jackson-core-2.1.3.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/google/APIS NECESARIAS/google-oauth-client-assembly-1.23.0-1.23.0/jackson-core-asl-1.9.11.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/google/APIS NECESARIAS/google-oauth-client-assembly-1.23.0-1.23.0/jdo2-api-2.3-eb.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/google/APIS NECESARIAS/google-oauth-client-assembly-1.23.0-1.23.0/jetty-6.1.26.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/google/APIS NECESARIAS/google-oauth-client-assembly-1.23.0-1.23.0/jetty-util-6.1.26.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/google/APIS NECESARIAS/google-oauth-client-assembly-1.23.0-1.23.0/jsr305-1.3.9.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/google/APIS NECESARIAS/google-oauth-client-assembly-1.23.0-1.23.0/protobuf-java-2.6.1.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/google/APIS NECESARIAS/google-oauth-client-assembly-1.23.0-1.23.0/transaction-api-1.1.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/google/APIS NECESARIAS/google-oauth-client-assembly-1.23.0-1.23.0/xpp3-1.1.4c.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/Desktop/apis/google/APIS NECESARIAS/google-oauth-client-assembly-1.23.0-1.23.0/jsr305-1.3.9.jar!/" />
+      </SOURCES>
+    </library>
     <library name="gson-2.3.1">
       <CLASSES>
         <root url="jar://$USER_HOME$/Desktop/apis/gson/gson-2.3.1.jar!/" />
