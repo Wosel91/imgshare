@@ -73,6 +73,14 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="java">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/Desktop/apis/recaptcha4j-0.0.7.zip!/recaptcha4j-0.0.7/src/main/java" />
+        <root url="jar://$USER_HOME$/Desktop/apis/recaptcha4j-0.0.7.zip!/recaptcha4j-0.0.7/src/main/test" />
+      </SOURCES>
+    </library>
     <library name="JAX-RS" type="JAX-RS">
       <CLASSES>
         <root url="jar://$USER_HOME$/Desktop/apis/jersey 3/jaxws-ri-2.3.0.zip!/" />
@@ -107,6 +115,14 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES />
+    </library>
+    <library name="recaptcha4j-0.0">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Desktop/apis/recaptcha4j-0.0.7" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$USER_HOME$/Desktop/apis/recaptcha4j-0.0.7" recursive="false" />
     </library>
   </component>
 </application>
