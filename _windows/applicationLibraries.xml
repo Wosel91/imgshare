@@ -1,5 +1,35 @@
 <application>
   <component name="libraryTable">
+    <library name="aopalliance-repackaged-2.5.0-b05">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Desktop/apis/jersey/aopalliance-repackaged-2.5.0-b05.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/jersey/asm-debug-all-5.0.4.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/jersey/hk2-api-2.5.0-b05.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/jersey/hk2-locator-2.5.0-b05.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/jersey/hk2-utils-2.5.0-b05.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/jersey/javassist-3.20.0-GA.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/jersey/javax.annotation-api-1.2.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/jersey/javax.inject-2.5.0-b05.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/jersey/javax.servlet-api-3.0.1.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/jersey/javax.ws.rs-api-2.0.1.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/jersey/jaxb-api-2.2.7.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/jersey/jersey-client.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/jersey/jersey-common.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/jersey/jersey-container-servlet-core.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/jersey/jersey-container-servlet.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/jersey/jersey-guava-2.23.2.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/jersey/jersey-media-jaxb.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/jersey/jersey-server.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/jersey/osgi-resource-locator-1.0.1.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/jersey/persistence-api-1.0.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/jersey/validation-api-1.1.0.Final.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/jersey/org.osgi.core-4.2.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/Desktop/apis/jersey/org.osgi.core-4.2.0.jar!/OSGI-OPT/src" />
+      </SOURCES>
+    </library>
     <library name="aopalliance-repackaged-2.5.0-b32">
       <CLASSES>
         <root url="jar://$USER_HOME$/Desktop/apis/jersey 2.0/aopalliance-repackaged-2.5.0-b32.jar!/" />
@@ -163,35 +193,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES />
-    </library>
-    <library name="jersey">
-      <CLASSES>
-        <root url="jar://$USER_HOME$/Desktop/apis/jersey 2.0/aopalliance-repackaged-2.5.0-b32.jar!/" />
-        <root url="jar://$USER_HOME$/Desktop/apis/jersey 2.0/hk2-api-2.5.0-b32.jar!/" />
-        <root url="jar://$USER_HOME$/Desktop/apis/jersey 2.0/hk2-locator-2.5.0-b32.jar!/" />
-        <root url="jar://$USER_HOME$/Desktop/apis/jersey 2.0/hk2-utils-2.5.0-b32.jar!/" />
-        <root url="jar://$USER_HOME$/Desktop/apis/jersey 2.0/javassist-3.20.0-GA.jar!/" />
-        <root url="jar://$USER_HOME$/Desktop/apis/jersey 2.0/javax.annotation-api-1.2.jar!/" />
-        <root url="jar://$USER_HOME$/Desktop/apis/jersey 2.0/javax.inject-2.5.0-b32.jar!/" />
-        <root url="jar://$USER_HOME$/Desktop/apis/jersey 2.0/javax.servlet-api-3.0.1.jar!/" />
-        <root url="jar://$USER_HOME$/Desktop/apis/jersey 2.0/javax.ws.rs-api-2.0.1.jar!/" />
-        <root url="jar://$USER_HOME$/Desktop/apis/jersey 2.0/jaxb-api-2.2.7.jar!/" />
-        <root url="jar://$USER_HOME$/Desktop/apis/jersey 2.0/jersey-client.jar!/" />
-        <root url="jar://$USER_HOME$/Desktop/apis/jersey 2.0/jersey-common.jar!/" />
-        <root url="jar://$USER_HOME$/Desktop/apis/jersey 2.0/jersey-container-servlet-core.jar!/" />
-        <root url="jar://$USER_HOME$/Desktop/apis/jersey 2.0/jersey-container-servlet.jar!/" />
-        <root url="jar://$USER_HOME$/Desktop/apis/jersey 2.0/jersey-guava-2.25.1.jar!/" />
-        <root url="jar://$USER_HOME$/Desktop/apis/jersey 2.0/jersey-media-jaxb.jar!/" />
-        <root url="jar://$USER_HOME$/Desktop/apis/jersey 2.0/jersey-server.jar!/" />
-        <root url="jar://$USER_HOME$/Desktop/apis/jersey 2.0/osgi-resource-locator-1.0.1.jar!/" />
-        <root url="jar://$USER_HOME$/Desktop/apis/jersey 2.0/persistence-api-1.0.jar!/" />
-        <root url="jar://$USER_HOME$/Desktop/apis/jersey 2.0/validation-api-1.1.0.Final.jar!/" />
-        <root url="jar://$USER_HOME$/Desktop/apis/jersey 2.0/org.osgi.core-4.2.0.jar!/" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="jar://$USER_HOME$/Desktop/apis/jersey 2.0/org.osgi.core-4.2.0.jar!/OSGI-OPT/src" />
-      </SOURCES>
     </library>
     <library name="jersey 2">
       <CLASSES>
