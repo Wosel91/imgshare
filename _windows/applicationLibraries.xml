@@ -72,6 +72,55 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="jackson-core-asl-1.9.13">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/org/codehaus/jackson/jackson-core-asl/main/jackson-core-asl-1.9.13.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/org/eclipse/microprofile/restclient/main/microprofile-rest-client-api-1.0.1.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/javax/json/bind/api/main/javax.json.bind-api-1.0.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/javax/ws/rs/api/main/jboss-jaxrs-api_2.1_spec-1.0.2.Final.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/org/codehaus/jettison/main/jettison-1.4.0.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/org/codehaus/jackson/jackson-jaxrs/main/jackson-jaxrs-1.9.13.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/org/glassfish/javax/json/main/javax.json-1.1.2.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/org/eclipse/yasson/main/yasson-1.0.2.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/org/codehaus/jackson/jackson-xc/main/jackson-xc-1.9.13.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/javax/json/api/main/javax.json-api-1.1.2.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/org/codehaus/jackson/jackson-mapper-asl/main/jackson-mapper-asl-1.9.13.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/com/github/fge/json-patch/main/json-patch-1.9.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/com/github/fge/jackson-coreutils/main/msg-simple-1.1.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/com/github/fge/jackson-coreutils/main/jackson-coreutils-1.6.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/com/github/fge/jackson-coreutils/main/btf-1.2.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/main/jackson-datatype-jsr310-2.9.8.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/main/jackson-datatype-jdk8-2.9.8.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/com/fasterxml/jackson/core/jackson-databind/main/jackson-databind-2.9.8.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/com/fasterxml/jackson/core/jackson-core/main/jackson-core-2.9.8.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/com/fasterxml/jackson/core/jackson-annotations/main/jackson-annotations-2.9.8.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/org/jboss/resteasy/skeleton-key/main/skeleton-key-core-3.6.3.Final.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/org/jboss/resteasy/skeleton-key/main/skeleton-key-as7-3.6.3.Final.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/org/jboss/resteasy/resteasy-yaml-provider/main/resteasy-yaml-provider-3.6.3.Final.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/org/jboss/resteasy/resteasy-validator-provider-11/main/resteasy-validator-provider-11-3.6.3.Final.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/org/jboss/resteasy/resteasy-spring/main/bundled/resteasy-spring-jar/resteasy-spring-3.6.3.Final.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/org/jboss/resteasy/resteasy-rxjava2/main/rxjava-2.2.5.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/org/jboss/resteasy/resteasy-rxjava2/main/resteasy-rxjava2-3.6.3.Final.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/org/jboss/resteasy/resteasy-multipart-provider/main/resteasy-multipart-provider-3.6.3.Final.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/org/jboss/resteasy/resteasy-json-p-provider/main/resteasy-json-p-provider-3.6.3.Final.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/org/jboss/resteasy/resteasy-json-binding-provider/main/resteasy-json-binding-provider-3.6.3.Final.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/org/jboss/resteasy/resteasy-jsapi/main/resteasy-jsapi-3.6.3.Final.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/org/jboss/resteasy/resteasy-jettison-provider/main/resteasy-jettison-provider-3.6.3.Final.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/org/jboss/resteasy/resteasy-jaxrs/main/resteasy-jaxrs-3.6.3.Final.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/org/jboss/resteasy/resteasy-jaxrs/main/resteasy-client-microprofile-3.6.3.Final.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/org/jboss/resteasy/resteasy-jaxrs/main/resteasy-client-3.6.3.Final.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/org/jboss/resteasy/resteasy-jaxb-provider/main/resteasy-jaxb-provider-3.6.3.Final.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/org/jboss/resteasy/resteasy-jackson2-provider/main/resteasy-jackson2-provider-3.6.3.Final.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/org/jboss/resteasy/resteasy-jackson-provider/main/resteasy-jackson-provider-3.6.3.Final.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/org/jboss/resteasy/resteasy-crypto/main/resteasy-crypto-3.6.3.Final.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/org/jboss/resteasy/resteasy-cdi/main/resteasy-cdi-3.6.3.Final.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/org/jboss/resteasy/resteasy-atom-provider/main/resteasy-atom-provider-3.6.3.Final.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/org/jboss/resteasy/jose-jwt/main/jose-jwt-3.6.3.Final.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/apis/resteasy-jaxrs-3.6.3.Final/resteasy-jboss-modules-3.6.3.Final/org/reactivestreams/main/reactive-streams-1.0.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="java">
       <CLASSES />
       <JAVADOC />
