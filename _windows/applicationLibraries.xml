@@ -242,6 +242,36 @@
         <root url="jar://$USER_HOME$/Desktop/apis/jersey 2.1/org.osgi.core-4.2.0.jar!/OSGI-OPT/src" />
       </SOURCES>
     </library>
+    <library name="mysql-connector-java-8.0.13">
+      <CLASSES>
+        <root url="jar://C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-java-8.0.13.jar!/" />
+        <root url="jar://C:/Program Files (x86)/MySQL/Connector J 8.0/lib/protobuf-java-3.6.1.jar!/" />
+        <root url="jar://C:/Program Files (x86)/MySQL/Connector J 8.0/lib/slf4j-api-1.6.1.jar!/" />
+        <root url="jar://C:/Program Files (x86)/MySQL/Connector J 8.0/lib/jboss-common-jdbc-wrapper.jar!/" />
+        <root url="jar://C:/Program Files (x86)/MySQL/Connector J 8.0/lib/c3p0-0.9.1-pre6.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://C:/Program Files (x86)/MySQL/Connector J 8.0/lib/c3p0-0.9.1-pre6.src.zip!/c3p0-0.9.1-pre6.src/dbms/oracle-thin/build/apidocs" />
+        <root url="jar://C:/Program Files (x86)/MySQL/Connector J 8.0/lib/c3p0-0.9.1-pre6.src.zip!/c3p0-0.9.1-pre6.src/dbms/oracle-thin/dist/doc/apidocs-oracle-thin" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://C:/Program Files (x86)/MySQL/Connector J 8.0/lib/jboss-common-jdbc-wrapper-src.jar!/" />
+        <root url="jar://C:/Program Files (x86)/MySQL/Connector J 8.0/lib/c3p0-0.9.1-pre6.src.zip!/c3p0-0.9.1-pre6.src/dbms/oracle-thin/src/classes" />
+        <root url="jar://C:/Program Files (x86)/MySQL/Connector J 8.0/lib/c3p0-0.9.1-pre6.src.zip!/c3p0-0.9.1-pre6.src/relproj/debuggen/src/classes" />
+        <root url="jar://C:/Program Files (x86)/MySQL/Connector J 8.0/lib/c3p0-0.9.1-pre6.src.zip!/c3p0-0.9.1-pre6.src/src/classes" />
+        <root url="jar://C:/Program Files (x86)/MySQL/Connector J 8.0/lib/c3p0-0.9.1-pre6.src.zip!/c3p0-0.9.1-pre6.src/src/dist-static/examples" />
+        <root url="jar://C:/Program Files (x86)/MySQL/Connector J 8.0/src.zip!/src/build/java" />
+        <root url="jar://C:/Program Files (x86)/MySQL/Connector J 8.0/src.zip!/src/demo/java" />
+        <root url="jar://C:/Program Files (x86)/MySQL/Connector J 8.0/src.zip!/src/generated/java" />
+        <root url="jar://C:/Program Files (x86)/MySQL/Connector J 8.0/src.zip!/src/legacy/java" />
+        <root url="jar://C:/Program Files (x86)/MySQL/Connector J 8.0/src.zip!/src/main/core-api/java" />
+        <root url="jar://C:/Program Files (x86)/MySQL/Connector J 8.0/src.zip!/src/main/core-impl/java" />
+        <root url="jar://C:/Program Files (x86)/MySQL/Connector J 8.0/src.zip!/src/main/protocol-impl/java" />
+        <root url="jar://C:/Program Files (x86)/MySQL/Connector J 8.0/src.zip!/src/main/user-api/java" />
+        <root url="jar://C:/Program Files (x86)/MySQL/Connector J 8.0/src.zip!/src/main/user-impl/java" />
+        <root url="jar://C:/Program Files (x86)/MySQL/Connector J 8.0/src.zip!/src/test/java" />
+      </SOURCES>
+    </library>
     <library name="org.jboss.resteasy:resteasy-jaxrs:3.6.3.Final" type="repository">
       <properties maven-id="org.jboss.resteasy:resteasy-jaxrs:3.6.3.Final" />
       <CLASSES>
